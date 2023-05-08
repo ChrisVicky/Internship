@@ -1,4 +1,4 @@
-# 实习投递记录
+# 简历投递情况整理
 
 ## 字节跳动
 > 3020202184@tju.edu.cn
@@ -62,3 +62,4 @@
 ## [拼多多](https://careers.pinduoduo.com/campus/personal-center)
 ### 5月8日
 * [ ] [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
+
