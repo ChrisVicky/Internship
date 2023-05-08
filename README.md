@@ -63,3 +63,17 @@
 ### 5月8日
 * [ ] [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
 
+
+## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
+### 5月8日
+* [ ] [软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)
+* [ ] [软件开发实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7226297491578175597/detail?spread=6AA3R7B)
+* [ ] [自动驾驶-系统研发工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225543096682905709/detail)
+* [ ] [软件开发工程师-云原生方向-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225529313725972588/detail?spread=6AA3R7B)
+* [ ] [系统运维工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225526997244674156/detail?spread=6AA3R7B) - 投递到上限故未投，但想要 
+
+## [Bilibili](https://jobs.bilibili.com/campus/records)
+### 5月8日
+* [ ] [C++ 开发实习生(音视频方向)【2024届】](https://jobs.bilibili.com/campus/positions/6272)
+* [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
+* [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
