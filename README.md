@@ -42,7 +42,7 @@
 
 ![image_2023-05-05-00-39-42](img/image_2023-05-05-00-39-42.png)
 
-## 苹果
+## [苹果](https://jobs.apple.com/app/zh-cn/profile/roles)
 > 1051666563@qq.com
 ### 5月5日
 * [ ] [Machine Learning/AI Engineering & Research Internship](https://jobs.apple.com/app/zh-cn/profile/info)
@@ -51,6 +51,7 @@
 > 1051666563@qq.com
 ### 5月5日
 * [ ] [校园招聘-软件开发-后台开发方向](https://join.qq.com/post.html?pid=1)
+    > * [x] 2023-05-06 完成性格测试
 > 似乎 腾讯的校招考试已经结束了
 
 ## [美团](https://zhaopin.meituan.com/web/personalCenter/deliveryRecord)
@@ -76,11 +77,12 @@
 
 ## [蔚来](https://nio.jobs.feishu.cn/campus/?spread=7Q6WWWR)
 ### 5月8日
-* [ ] [实习-自动驾驶软件开发实习生 -自动驾驶](https://nio.jobs.feishu.cn/campus/position/7205128999558400293/detail?spread=7Q6WWWR)
+* [ ] 2023-05-09 ~~[实习-自动驾驶软件开发实习生 -自动驾驶](https://nio.jobs.feishu.cn/campus/position/7205128999558400293/detail?spread=7Q6WWWR)~~
 
 ## [拼多多](https://careers.pinduoduo.com/campus/personal-center)
 ### 5月8日
 * [ ] [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
+    > * [x] 2023-05-09 完成性格测试
 
 
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
@@ -96,3 +98,4 @@
 * [ ] [C++ 开发实习生(音视频方向)【2024届】](https://jobs.bilibili.com/campus/positions/6272)
 * [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
 * [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
+> * [x] 2023-05-09 均进入 `初筛中` 的状态
