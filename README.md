@@ -60,8 +60,10 @@
 * [ ] [自然语言处理实习生（智能交互方向）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1319804754&jobShareType=1&highlightType=campus)
 * [ ] [【实习】搜索算法工程师（实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=734577326&jobShareType=1&highlightType=campus)
 * [ ] [AI研发实习生](https://zhaopin.meituan.com/web/position/detail?jobUnionId=824902529&jobShareType=1&highlightType=campus)
+> * [x] 2023-05-09 均 `简历筛选` 
 ### 5月8日
 * [ ] [运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)
+> * [x] 2023-05-09 `网申成功`
 
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
@@ -98,4 +100,4 @@
 * [ ] [C++ 开发实习生(音视频方向)【2024届】](https://jobs.bilibili.com/campus/positions/6272)
 * [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
 * [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
-> * [x] 2023-05-09 均进入 `初筛中` 的状态
+> * [x] 2023-05-09 均 `初筛中`
