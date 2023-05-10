@@ -73,6 +73,7 @@
     > * [x] 2023-05-09 简历待定
 * [ ] ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
     > * [x] 2023-05-10 不匹配~~
+> * [x] 2023-05-10 完成电话沟通，添加微信
 
 
 
