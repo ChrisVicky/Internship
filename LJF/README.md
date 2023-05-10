@@ -116,3 +116,8 @@
 * [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
 * [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
 > * [x] 2023-05-09 均 `初筛中`
+
+## [网易](https://hr.163.com/user.html/application)
+### 5月10日
+* [ ] [推荐算法实习生](https://hr.163.com/job-detail.html?id=39274&lang=zh)
+* [ ] [计算机视觉算法实习生](https://hr.163.com/job-detail.html?id=25523&lang=zh)
