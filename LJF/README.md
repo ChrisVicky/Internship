@@ -33,12 +33,14 @@
 > 3020202184@tju.edu.cn
 ### 5月5日
 * [ ] [软件开发工程师实习生](https://app.mokahr.com/campus-recruitment/tesla/91939#/job/5b78bbd9-ea83-48cb-86b7-3efe8f8d9b19)
+    > * 2023-05-10 没反应，似乎寄了
 
 
 ## 阿里
 > 3020202184@tju.edu.cn
 ### 5月5日
 * [ ] [阿里（三个）](https://talent.alibaba.com/personal/campus-application?lang=zh)
+    > * 2023-05-10 没反应，似乎寄了
 
 ![image_2023-05-05-00-39-42](img/image_2023-05-05-00-39-42.png)
 
@@ -46,12 +48,14 @@
 > 1051666563@qq.com
 ### 5月5日
 * [ ] [Machine Learning/AI Engineering & Research Internship](https://jobs.apple.com/app/zh-cn/profile/info)
+    > * 2023-05-10 无反应，似乎寄了
 
 ## 腾讯
 > 1051666563@qq.com
 ### 5月5日
 * [ ] [校园招聘-软件开发-后台开发方向](https://join.qq.com/post.html?pid=1)
     > * [x] 2023-05-06 完成性格测试
+    > * 2023-05-10 无反应，似乎寄了
 > 似乎 腾讯的校招考试已经结束了
 
 ## [美团](https://zhaopin.meituan.com/web/personalCenter/deliveryRecord)
@@ -60,20 +64,24 @@
 * [ ] [自然语言处理实习生（智能交互方向）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1319804754&jobShareType=1&highlightType=campus)
 * [ ] [【实习】搜索算法工程师（实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=734577326&jobShareType=1&highlightType=campus)
 * [ ] [AI研发实习生](https://zhaopin.meituan.com/web/position/detail?jobUnionId=824902529&jobShareType=1&highlightType=campus)
-> * [x] 2023-05-09 均 `简历筛选` 
+    > * [x] 2023-05-09 均 `简历筛选` 
+
 ### 5月8日
 * [ ] [运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)
-> * [x] 2023-05-09 `网申成功`
+    > * [x] 2023-05-09 `网申成功`
+    > * [x] 2023-05-10 笔试时间：2023-05-13（周六）上午十点到十二点
 
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
-* [ ] [IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)
+* [ ] ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
     > * [x] 2023-05-10 简历待定
+    > * [x] 2023-05-10 ~~该 routine 纯纯的打杂岗~~
 * [ ] [C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
     > * [x] 2023-05-09 简历待定
-* [ ] ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
-    > * [x] 2023-05-10 不匹配~~
-> * [x] 2023-05-10 完成电话沟通，添加微信
+    > * [x] 2023-05-10 完成电话沟通，添加微信
+    > * [x] 2023-05-10 约定 2023-05-11（周四）晚上 6 到 10 进行笔试
+* [ ] ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
+    > * [x] 2023-05-10 ~~不匹配~~
 
 
 
@@ -89,11 +97,14 @@
 ### 5月8日
 * [ ] [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
     > * [x] 2023-05-09 完成性格测试
+    > * [x] 2023-05-10 `待笔试` 但未受到短信、邮件
 
 
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
+* 志愿有顺序
 ### 5月8日
 * [ ] [软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)
+    > * [x] 2023-05-10 `评估中`
 * [ ] [软件开发实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7226297491578175597/detail?spread=6AA3R7B)
 * [ ] [自动驾驶-系统研发工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225543096682905709/detail)
 * [ ] [软件开发工程师-云原生方向-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225529313725972588/detail?spread=6AA3R7B)
