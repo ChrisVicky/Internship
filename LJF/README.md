@@ -68,9 +68,12 @@
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
 * [ ] [IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)
+    > * [x] 2023-05-10 简历待定
 * [ ] [C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
     > * [x] 2023-05-09 简历待定
-* [ ] [高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
+* [ ] ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
+    > * [x] 2023-05-10 不匹配~~
+
 
 
 ## [图森](https://app.mokahr.com/campus_apply/tusenweilai/68335#/)
