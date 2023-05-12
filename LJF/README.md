@@ -103,6 +103,7 @@
 * [ ] [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
     > * [x] 2023-05-09 完成性格测试
     > * [x] 2023-05-10 `待笔试` 但未受到短信、邮件
+    > * [x] 2023-05-12 `笔试短信通知`
 
 
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
