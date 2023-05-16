@@ -71,6 +71,7 @@
 * [ ] [运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)
     > * [x] 2023-05-09 `网申成功`
     > * [x] 2023-05-10 笔试时间：2023-05-13（周六）上午十点到十二点
+    > * [x] 2023-05-16 ~~(1/4的正确率)果然挂了~~
 
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
