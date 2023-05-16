@@ -68,21 +68,21 @@
     > * [x] 2023-05-09 均 `简历筛选` 
 
 ### 5月8日
-* [ ] ~~[运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)~~
+* [ ] 2023-05-16 ~~[运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)~~
     > * [x] 2023-05-09 `网申成功`
     > * [x] 2023-05-10 笔试时间：2023-05-13（周六）上午十点到十二点
     > * [x] 2023-05-16 ~~(1/4的正确率)果然挂了~~
 
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
-* [ ] ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
+* [ ] 2023-05-10 ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
     > * [x] 2023-05-10 简历待定
     > * [x] 2023-05-10 ~~该 routine 纯纯的打杂岗~~
 * [ ] [C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
     > * [x] 2023-05-09 简历待定
     > * [x] 2023-05-10 完成电话沟通，添加微信
     > * [x] 2023-05-10 约定 2023-05-11（周四）晚上 6 到 10 进行笔试
-* [ ] ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
+* [ ] 2023-05-10 ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-10 ~~不匹配~~
 ### 5月11日
 * [ ] [项目开发实习生（实施开发）](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/1a129ad7-6fea-4d57-b81b-106ab7b934a1)
