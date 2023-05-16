@@ -36,7 +36,7 @@
 
 ## 2023.05.09  
 ### 小米
-* [ ] [数据分析实习生 日常实习 软件研发类](https://xiaomi.jobs.f.mioffice.cn/internship/position/7218776979003752557/detail?spread=6AA3R7B)
+* [ ] 2023-05-11[~~数据分析实习生 日常实习 软件研发类~~](https://xiaomi.jobs.f.mioffice.cn/internship/position/7218776979003752557/detail?spread=6AA3R7B)
 * [ ] [数据分析实习生 2024届实习生计划 产品类](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225529634836791405/detail?spread=6AA3R7B)
 * [ ] [数据分析实习生 日常实习 软件研发类](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225521340429189229/detail?spread=6AA3R7B)
 
@@ -44,3 +44,19 @@
 * [ ] [数据策略实习生 日常实习](https://jobs.bilibili.com/campus/positions/6222)
 * [ ] [数据分析实习生 搜索业务](https://jobs.bilibili.com/campus/positions/6020)
 * [ ] [数据分析实习生 多屏](https://jobs.bilibili.com/campus/positions/6070)
+  
+## 2023.05.14
+### 京东
+* [ ] [数据分析-JDYOUNG实习生计划](https://campus.jd.com/#/details?id=4127)
+  
+### 小米 数据产品经理实习生（北京）
+### 腾讯云 商业分析团队实习生（深圳）
+
+## 2023.05.16
+### 北京滴滴-商业分析实习生（liuzhuoqun@didiglobal.com）
+### 交银金融科技有限公司-上海-数据分析实习生（应届生网）
+### 优时比贸易（上海）有限公司-Insight to Impact Intern (财务及商业数据方向)(应届生网)
+### 字节跳动
+* [ ][日常实习-数据产品实习生-商业化技术-北京](https://jobs.toutiao.com/s/UFMETtj)(抽空熟悉大数据基本概念：如数仓模型、指标维度、hadoop、hive等)
+
+
