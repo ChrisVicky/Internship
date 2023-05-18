@@ -124,6 +124,7 @@
 ## [Bilibili](https://jobs.bilibili.com/campus/records)
 ### 5月8日
 * [ ] [C++ 开发实习生(音视频方向)【2024届】](https://jobs.bilibili.com/campus/positions/6272)
+    > * [x] 2023-05-18 `用人部门筛选`
 * [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
 * [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
 > * [x] 2023-05-09 均 `初筛中`
