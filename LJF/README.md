@@ -78,11 +78,10 @@
 * [ ] 2023-05-10 ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
     > * [x] 2023-05-10 简历待定
     > * [x] 2023-05-10 ~~该 routine 纯纯的打杂岗~~
-* [ ] [C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
+* [ ] 2023-05-19 ~~[C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-09 简历待定
     > * [x] 2023-05-10 完成电话沟通，添加微信
     > * [x] 2023-05-10 约定 2023-05-11（周四）晚上 6 到 10 进行笔试
-    > * [ ] 2023-05-19 ~~`不匹配`~~
 * [ ] 2023-05-10 ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-10 ~~不匹配~~
 ### 5月11日
