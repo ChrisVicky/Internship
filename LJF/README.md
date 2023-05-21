@@ -68,20 +68,21 @@
     > * [x] 2023-05-09 均 `简历筛选` 
 
 ### 5月8日
-* [ ] [运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)
+* [ ] 2023-05-16 ~~[运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)~~
     > * [x] 2023-05-09 `网申成功`
     > * [x] 2023-05-10 笔试时间：2023-05-13（周六）上午十点到十二点
+    > * [x] 2023-05-16 ~~(1/4的正确率)果然挂了~~
 
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
-* [ ] ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
+* [ ] 2023-05-10 ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
     > * [x] 2023-05-10 简历待定
     > * [x] 2023-05-10 ~~该 routine 纯纯的打杂岗~~
-* [ ] [C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)
+* [ ] 2023-05-19 ~~[C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-09 简历待定
     > * [x] 2023-05-10 完成电话沟通，添加微信
     > * [x] 2023-05-10 约定 2023-05-11（周四）晚上 6 到 10 进行笔试
-* [ ] ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
+* [ ] 2023-05-10 ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-10 ~~不匹配~~
 ### 5月11日
 * [ ] [项目开发实习生（实施开发）](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/1a129ad7-6fea-4d57-b81b-106ab7b934a1)
@@ -107,6 +108,7 @@
     > * [x] 2023-05-10 `待笔试` 但未受到短信、邮件
     > * [x] 2023-05-12 `笔试短信通知`
     > * [x] 2023-05-15 `笔试2/4` 头疼，不太行
+    > * [x] 2023-05-18 `面试约定 2023-05-22 上午10点`
 
 
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
@@ -122,6 +124,7 @@
 ## [Bilibili](https://jobs.bilibili.com/campus/records)
 ### 5月8日
 * [ ] [C++ 开发实习生(音视频方向)【2024届】](https://jobs.bilibili.com/campus/positions/6272)
+    > * [x] 2023-05-18 `用人部门筛选`
 * [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
 * [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
 > * [x] 2023-05-09 均 `初筛中`
