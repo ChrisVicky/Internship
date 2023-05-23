@@ -24,7 +24,8 @@
 ### 5月6日
 * [ ] [后端开发实习生-飞书](https://jobs.bytedance.com/campus/position/7205093230139672891/detail)
     > * [x] 2023-05-09 完成笔试（4道编程题，3/4，应该是读题出错了）
-    > * [ ] 2023-05-12 约定面试时间（16号晚上6点）
+    > * [x] 2023-05-12 1面时间确定（16号晚上6点）
+    > * [ ] 2023-05-23 2面时间确定（6月1日下午4点）
 * [ ] [后端开发实习生-今日头条](https://jobs.bytedance.com/campus/position/7207349753562515768/detail?spread=B3RU5SF)
 * [x] 2023-05-06 ~~[推荐算法实习生-国际化电商](https://jobs.bytedance.com/campus/position/7209937982735681829/detail?spread=B3RU5SF)~~
 
@@ -114,8 +115,9 @@
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
 * 志愿有顺序
 ### 5月8日
-* [ ] [软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)
+* [ ] 2023-05-22 ~~[软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)~~
     > * [x] 2023-05-10 `评估中`
+    > * [x] 2023-05-22 `流程结束`
 * [ ] [软件开发实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7226297491578175597/detail?spread=6AA3R7B)
 * [ ] [自动驾驶-系统研发工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225543096682905709/detail)
 * [ ] [软件开发工程师-云原生方向-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225529313725972588/detail?spread=6AA3R7B)
