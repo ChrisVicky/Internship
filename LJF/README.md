@@ -96,7 +96,8 @@
 
 ## [图森](https://app.mokahr.com/campus_apply/tusenweilai/68335#/)
 ### 5月8日
-* [ ] [软件研发实习生-算法平台](https://app.mokahr.com/campus_apply/tusenweilai/68335#/job/b0eea913-edaa-446c-87cc-6e2278226958)
+* [ ] 2023-05-25 ~~[软件研发实习生-算法平台](https://app.mokahr.com/campus_apply/tusenweilai/68335#/job/b0eea913-edaa-446c-87cc-6e2278226958)~~
+    > * [x] 2023-05-25 `暂不匹配`
 
 ## [蔚来](https://nio.jobs.feishu.cn/campus/?spread=7Q6WWWR)
 ### 5月8日
