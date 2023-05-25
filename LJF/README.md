@@ -105,12 +105,13 @@
 
 ## [拼多多](https://careers.pinduoduo.com/campus/personal-center)
 ### 5月8日
-* [ ] [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
+* [ ] 2023-05-25 [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
     > * [x] 2023-05-09 完成性格测试
     > * [x] 2023-05-10 `待笔试` 但未受到短信、邮件
     > * [x] 2023-05-12 `笔试短信通知`
     > * [x] 2023-05-15 `笔试2/4` 头疼，不太行
     > * [x] 2023-05-18 `面试约定 2023-05-22 上午10点`
+    > * [x] 2023-05-25 `流程终止` [应该是算法题没做出来的问题]
 
 
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
