@@ -120,8 +120,9 @@
 * [ ] 2023-05-22 ~~[软件开发实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7226297491578175597/detail?spread=6AA3R7B)~~
     > * [x] 2023-05-10 `评估中`
     > * [x] 2023-05-22 `流程结束`
-* [ ] [软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)
+* [ ] 2023-05-25 ~~[软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)~~
     > * [x] 2023-05-23 `评估中`
+    > * [x] 2023-05-25 `流程结束`
 * [ ] [自动驾驶-系统研发工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225543096682905709/detail)
 * [ ] [软件开发工程师-云原生方向-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225529313725972588/detail?spread=6AA3R7B)
 * [ ] [系统运维工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225526997244674156/detail?spread=6AA3R7B) - 投递到上限故未投，但想要 
