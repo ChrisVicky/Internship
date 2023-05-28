@@ -105,7 +105,7 @@
 
 ## [拼多多](https://careers.pinduoduo.com/campus/personal-center)
 ### 5月8日
-* [ ] 2023-05-25 [算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)
+* [ ] 2023-05-25 ~~[算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)~~
     > * [x] 2023-05-09 完成性格测试
     > * [x] 2023-05-10 `待笔试` 但未受到短信、邮件
     > * [x] 2023-05-12 `笔试短信通知`
@@ -139,3 +139,6 @@
 ### 5月10日
 * [ ] [推荐算法实习生](https://hr.163.com/job-detail.html?id=39274&lang=zh)
 * [ ] [计算机视觉算法实习生](https://hr.163.com/job-detail.html?id=25523&lang=zh)
+
+## [实习僧](https://www.shixiseng.com/)
+> 实习汇总平台，投递了一堆
