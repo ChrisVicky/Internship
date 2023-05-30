@@ -35,8 +35,9 @@
 ## 特斯拉
 > 3020202184@tju.edu.cn
 ### 5月5日
-* [ ] [软件开发工程师实习生](https://app.mokahr.com/campus-recruitment/tesla/91939#/job/5b78bbd9-ea83-48cb-86b7-3efe8f8d9b19)
+* [ ] 2023-05-30 ~~[软件开发工程师实习生](https://app.mokahr.com/campus-recruitment/tesla/91939#/job/5b78bbd9-ea83-48cb-86b7-3efe8f8d9b19)~~
     > * 2023-05-10 没反应，似乎寄了
+    > * 2023-05-30 项目没了
 
 
 ## 阿里
@@ -131,10 +132,12 @@
 ## [Bilibili](https://jobs.bilibili.com/campus/records)
 ### 5月8日
 * [ ] [C++ 开发实习生(音视频方向)【2024届】](https://jobs.bilibili.com/campus/positions/6272)
+    > * [x] 2023-05-09 `初筛中`
     > * [x] 2023-05-18 `用人部门筛选`
 * [ ] [后端开发实习生【2024届】](https://jobs.bilibili.com/campus/positions/6283)
+    > * [x] 2023-05-09 `初筛中`
 * [ ] [Golang开发实习生(大会员)](https://jobs.bilibili.com/campus/positions/6054)
-> * [x] 2023-05-09 均 `初筛中`
+    > * [x] 2023-05-09 `初筛中`
 
 ## [网易](https://hr.163.com/user.html/application)
 ### 5月10日
