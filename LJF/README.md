@@ -15,7 +15,7 @@
 * [实习僧](#实习僧)
 
 
-## 字节跳动
+## [字节跳动](https://jobs.bytedance.com/campus/position/application)
 > 3020202184@tju.edu.cn
 ### 5月5日
 * [x] 2023-05-06 ~~[算法实习生-抖音](https://jobs.bytedance.com/campus/position/7204702300962474297/detail?spread=B3RU5SF)~~
@@ -26,7 +26,7 @@
 * [ ] [后端开发实习生-飞书](https://jobs.bytedance.com/campus/position/7205093230139672891/detail)
     > * [x] 2023-05-09 完成笔试（4道编程题，3/4，应该是读题出错了）
     > * [x] 2023-05-12 1面时间确定（16号晚上6点）
-    > * [ ] 2023-05-23 2面时间确定（6月1日下午4点）
+    > * [x] 2023-05-23 2面时间确定（6月1日下午4点）
 * [ ] [后端开发实习生-今日头条](https://jobs.bytedance.com/campus/position/7207349753562515768/detail?spread=B3RU5SF)
 * [x] 2023-05-06 ~~[推荐算法实习生-国际化电商](https://jobs.bytedance.com/campus/position/7209937982735681829/detail?spread=B3RU5SF)~~
 
