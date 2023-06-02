@@ -1,15 +1,15 @@
 # 简历投递情况整理
 
-* [字节跳动](#字节跳动) 
-* [特斯拉](#特斯拉)     
+* [字节跳动 : 等2面结果](#字节跳动) 
+* ~~[特斯拉](#特斯拉)~~
 * [阿里](#阿里)         
-* [苹果](#苹果)         
+* ~~[苹果](#苹果)~~
 * [腾讯](#腾讯)         
 * [美团](#美团)         
-* [DophinDB](#DophinDB) 
-* [图森](#图森)         
-* [蔚来](#蔚来)         
-* [拼多多](#拼多多)     
+* [DophinDB - 泡池子](#DophinDB)
+* ~~[图森](#图森)~~
+* ~~[蔚来](#蔚来)~~
+* ~~[拼多多](#拼多多)~~
 * [小米](#小米)         
 * [Bilibili](#Bilibili) 
 * [实习僧](#实习僧)
@@ -51,7 +51,7 @@
 ## [苹果](https://jobs.apple.com/app/zh-cn/profile/roles)
 > 1051666563@qq.com
 ### 5月5日
-* [ ] [Machine Learning/AI Engineering & Research Internship](https://jobs.apple.com/app/zh-cn/profile/info)
+* [ ] 2023-06-02 ~~[Machine Learning/AI Engineering & Research Internship](https://jobs.apple.com/app/zh-cn/profile/info)~~
     > * 2023-05-10 无反应，似乎寄了
 
 ## 腾讯
