@@ -18,8 +18,8 @@
 ## [字节跳动](https://jobs.bytedance.com/campus/position/application)
 > 3020202184@tju.edu.cn
 ### 5月5日
-* [x] 2023-05-06 ~~[算法实习生-抖音](https://jobs.bytedance.com/campus/position/7204702300962474297/detail?spread=B3RU5SF)~~
-* [x] 2023-05-06 ~~[计算机视觉实习生-搜索](https://jobs.bytedance.com/campus/position/7202131274357819707/detail?spread=B3RU5SF)~~
+* 2023-05-06 ~~[算法实习生-抖音](https://jobs.bytedance.com/campus/position/7204702300962474297/detail?spread=B3RU5SF)~~
+* 2023-05-06 ~~[计算机视觉实习生-搜索](https://jobs.bytedance.com/campus/position/7202131274357819707/detail?spread=B3RU5SF)~~
 * [ ] [计算机视觉算法实习生-Data](https://jobs.bytedance.com/campus/position/7210285184640731429/detail?spread=B3RU5SF)
 
 ### 5月6日
@@ -28,7 +28,7 @@
     > * [x] 2023-05-12 1面时间确定（16号晚上6点）
     > * [x] 2023-05-23 2面时间确定（6月1日下午4点）
 * [ ] [后端开发实习生-今日头条](https://jobs.bytedance.com/campus/position/7207349753562515768/detail?spread=B3RU5SF)
-* [x] 2023-05-06 ~~[推荐算法实习生-国际化电商](https://jobs.bytedance.com/campus/position/7209937982735681829/detail?spread=B3RU5SF)~~
+* 2023-05-06 ~~[推荐算法实习生-国际化电商](https://jobs.bytedance.com/campus/position/7209937982735681829/detail?spread=B3RU5SF)~~
 
 > 字节的简历投递已经在 4月30号 结束了
 
@@ -51,7 +51,7 @@
 ## [苹果](https://jobs.apple.com/app/zh-cn/profile/roles)
 > 1051666563@qq.com
 ### 5月5日
-* [ ] 2023-06-02 ~~[Machine Learning/AI Engineering & Research Internship](https://jobs.apple.com/app/zh-cn/profile/info)~~
+* 2023-06-02 ~~[Machine Learning/AI Engineering & Research Internship](https://jobs.apple.com/app/zh-cn/profile/info)~~
     > * 2023-05-10 无反应，似乎寄了
 
 ## 腾讯
@@ -71,21 +71,21 @@
     > * [x] 2023-05-09 均 `简历筛选` 
 
 ### 5月8日
-* [ ] 2023-05-16 ~~[运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)~~
+* 2023-05-16 ~~[运维工程师（转正实习）](https://zhaopin.meituan.com/web/position/detail?jobUnionId=1423902675&highlightType=campus)~~
     > * [x] 2023-05-09 `网申成功`
     > * [x] 2023-05-10 笔试时间：2023-05-13（周六）上午十点到十二点
     > * [x] 2023-05-16 ~~(1/4的正确率)果然挂了~~
 
 ## [DophinDB](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/candidateHome/applications)
 ### 5月7日
-* [ ] 2023-05-10 ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
+* 2023-05-10 ~~[IT运维实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fab4f530-ad50-44bb-928c-7174260ba9c6)~~
     > * [x] 2023-05-10 简历待定
     > * [x] 2023-05-10 ~~该 routine 纯纯的打杂岗~~
-* [ ] 2023-05-19 ~~[C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
+* 2023-05-19 ~~[C++后端开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-09 简历待定
     > * [x] 2023-05-10 完成电话沟通，添加微信
     > * [x] 2023-05-10 约定 2023-05-11（周四）晚上 6 到 10 进行笔试
-* [ ] 2023-05-10 ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
+* 2023-05-10 ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-10 ~~不匹配~~
 ### 5月11日
 * [ ] [项目开发实习生（实施开发）](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/1a129ad7-6fea-4d57-b81b-106ab7b934a1)
@@ -98,16 +98,16 @@
 
 ## [图森](https://app.mokahr.com/campus_apply/tusenweilai/68335#/)
 ### 5月8日
-* [ ] 2023-05-25 ~~[软件研发实习生-算法平台](https://app.mokahr.com/campus_apply/tusenweilai/68335#/job/b0eea913-edaa-446c-87cc-6e2278226958)~~
+* 2023-05-25 ~~[软件研发实习生-算法平台](https://app.mokahr.com/campus_apply/tusenweilai/68335#/job/b0eea913-edaa-446c-87cc-6e2278226958)~~
     > * [x] 2023-05-25 `暂不匹配`
 
 ## [蔚来](https://nio.jobs.feishu.cn/campus/?spread=7Q6WWWR)
 ### 5月8日
-* [ ] 2023-05-09 ~~[实习-自动驾驶软件开发实习生 -自动驾驶](https://nio.jobs.feishu.cn/campus/position/7205128999558400293/detail?spread=7Q6WWWR)~~
+* 2023-05-09 ~~[实习-自动驾驶软件开发实习生 -自动驾驶](https://nio.jobs.feishu.cn/campus/position/7205128999558400293/detail?spread=7Q6WWWR)~~
 
 ## [拼多多](https://careers.pinduoduo.com/campus/personal-center)
 ### 5月8日
-* [ ] 2023-05-25 ~~[算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)~~
+* 2023-05-25 ~~[算法实习、服务端研发](https://careers.pinduoduo.com/campus/personal-center)~~
     > * [x] 2023-05-09 完成性格测试
     > * [x] 2023-05-10 `待笔试` 但未受到短信、邮件
     > * [x] 2023-05-12 `笔试短信通知`
@@ -119,10 +119,10 @@
 ## [小米](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B)
 * 志愿有顺序
 ### 5月8日
-* [ ] 2023-05-22 ~~[软件开发实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7226297491578175597/detail?spread=6AA3R7B)~~
+* 2023-05-22 ~~[软件开发实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7226297491578175597/detail?spread=6AA3R7B)~~
     > * [x] 2023-05-10 `评估中`
     > * [x] 2023-05-22 `流程结束`
-* [ ] 2023-05-25 ~~[软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)~~
+* 2023-05-25 ~~[软件开发工程师（C/C++）应用框架方向实习生](https://xiaomi.jobs.f.mioffice.cn/internship/position/7229527309652099180/detail)~~
     > * [x] 2023-05-23 `评估中`
     > * [x] 2023-05-25 `流程结束`
 * [ ] [自动驾驶-系统研发工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225543096682905709/detail)
