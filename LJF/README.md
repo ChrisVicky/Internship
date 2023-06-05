@@ -6,13 +6,14 @@
 * ~~[苹果](#苹果)~~
 * [腾讯](#腾讯)         
 * [美团](#美团)         
-* [DophinDB - 泡池子](#DophinDB)
+* ~~[DophinDB](#DophinDB)~~
 * ~~[图森](#图森)~~
 * ~~[蔚来](#蔚来)~~
 * ~~[拼多多](#拼多多)~~
 * [小米](#小米)         
 * [Bilibili](#Bilibili) 
 * [实习僧](#实习僧)
+* [亚马逊](#亚马逊)
 
 
 ## [字节跳动](https://jobs.bytedance.com/campus/position/application)
@@ -88,11 +89,12 @@
 * 2023-05-10 ~~[高性能计算开发实习生](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/fd0b078c-9bed-4419-bd16-5a7a87baab69)~~
     > * [x] 2023-05-10 ~~不匹配~~
 ### 5月11日
-* [ ] [项目开发实习生（实施开发）](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/1a129ad7-6fea-4d57-b81b-106ab7b934a1)
+* [ ] 2023-06-05 ~~[项目开发实习生（实施开发）](https://app.mokahr.com/campus-recruitment/dolphindb/37786#/job/1a129ad7-6fea-4d57-b81b-106ab7b934a1)~~
     > * [x] 2023-05-10 完成电话沟通，添加微信
     > * [x] 2023-05-10 约定 2023-05-11（周四）晚上 6 到 10 进行笔试
     > * [x] 2023-05-11 （对方添加）简历待定
     > * [x] 2023-05-15 `用人部门筛选`
+    > * [x] 2023-06-05 ~~`不匹配`~~
 
 
 
@@ -146,3 +148,8 @@
 
 ## [实习僧](https://www.shixiseng.com/)
 > 实习汇总平台，投递了一堆
+
+## [亚马逊](https://account.amazon.jobs/zh-CN)
+## 6月5日
+* [ ] [Data Center Technical Support Intern](https://www.amazon.jobs/zh/jobs/2372546/data-center-technical-support-intern)
+    > * [x] 2023-06-05 实习僧上通知通过初筛，要求在其自己的网站上提交申请
