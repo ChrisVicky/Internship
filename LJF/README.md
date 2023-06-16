@@ -1,6 +1,6 @@
 # 简历投递情况整理
 
-* [字节跳动 : 等2面结果](#字节跳动) 
+* [字节跳动](#字节跳动) 
 * ~~[特斯拉](#特斯拉)~~
 * [阿里](#阿里)         
 * ~~[苹果](#苹果)~~
@@ -24,10 +24,11 @@
 * [ ] [计算机视觉算法实习生-Data](https://jobs.bytedance.com/campus/position/7210285184640731429/detail?spread=B3RU5SF)
 
 ### 5月6日
-* [ ] [后端开发实习生-飞书](https://jobs.bytedance.com/campus/position/7205093230139672891/detail)
+* [ ] 2023-06-16 ~~[后端开发实习生-飞书](https://jobs.bytedance.com/campus/position/7205093230139672891/detail)~~
     > * [x] 2023-05-09 完成笔试（4道编程题，3/4，应该是读题出错了）
     > * [x] 2023-05-12 1面时间确定（16号晚上6点）
     > * [x] 2023-05-23 2面时间确定（6月1日下午4点）
+    > * [x] 2023-06-13 拒咯
 * [ ] [后端开发实习生-今日头条](https://jobs.bytedance.com/campus/position/7207349753562515768/detail?spread=B3RU5SF)
 * 2023-05-06 ~~[推荐算法实习生-国际化电商](https://jobs.bytedance.com/campus/position/7209937982735681829/detail?spread=B3RU5SF)~~
 
@@ -129,6 +130,7 @@
     > * [x] 2023-05-25 `流程结束`
 * [ ] [自动驾驶-系统研发工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225543096682905709/detail)
 * [ ] [软件开发工程师-云原生方向-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225529313725972588/detail?spread=6AA3R7B)
+    > * [x] 2023-06-12 `评估中`
 * [ ] [系统运维工程师-实习](https://xiaomi.jobs.f.mioffice.cn/internship/position/7225526997244674156/detail?spread=6AA3R7B) - 投递到上限故未投，但想要 
 
 ## [Bilibili](https://jobs.bilibili.com/campus/records)
@@ -144,6 +146,7 @@
 ## [网易](https://hr.163.com/user.html/application)
 ### 5月10日
 * [ ] [推荐算法实习生](https://hr.163.com/job-detail.html?id=39274&lang=zh)
+    > * [x] 2023-06-13 筛选不通过
 * [ ] [计算机视觉算法实习生](https://hr.163.com/job-detail.html?id=25523&lang=zh)
 
 ## [实习僧](https://www.shixiseng.com/)
@@ -153,3 +156,4 @@
 ## 6月5日
 * [ ] [Data Center Technical Support Intern](https://www.amazon.jobs/zh/jobs/2372546/data-center-technical-support-intern)
     > * [x] 2023-06-05 实习僧上通知通过初筛，要求在其自己的网站上提交申请
+    > * [x] 2023-06-16 邮件来往中，但仅有基础问题
